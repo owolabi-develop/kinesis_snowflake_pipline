@@ -12,7 +12,7 @@ ENVIRONMENT = {
 }
 
 
-class HomePropertiesStack(Stack):
+class SalesDataStack(Stack):
      def __init__(self, scope: Construct, construct_id: str, **Kwargs):
         super().__init__(scope, construct_id, **Kwargs)
         

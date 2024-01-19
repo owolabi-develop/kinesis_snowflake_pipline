@@ -3,9 +3,8 @@ import aws_cdk as cdk
 from  aws_cdk import (
     Stack,
     aws_s3 as _s3,
-    RemovalPolicy
-
-
+    RemovalPolicy,
+   aws_s3_deployment as _s3deploy
 )
 
 
@@ -30,6 +29,24 @@ class S3bucketStack(Stack):
                     removal_policy=RemovalPolicy.DESTROY,
                     versioned=True
                 )
+        
+        
+        
+        
+        ### deploy the arflow dags script 
+        
+        _s3deploy.BucketDeployment(self,"deployment",
+                                  sources=[_s3deploy.Source.asset('dags/')],
+                                  destination_bucket=airflow_dags_bucket.bucket_arn,
+                                  destination_key_prefix='dags'
+                                  )
+        
+        
+         ### deploy the arflow  snowflake requirements files
+        _s3deploy.BucketDeployment(self,"deployment-2",
+                                  sources=[_s3deploy.Source.asset('airflow_requirements/')],
+                                  destination_bucket=airflow_dags_bucket.bucket_arn
+                                  )
         
         
         

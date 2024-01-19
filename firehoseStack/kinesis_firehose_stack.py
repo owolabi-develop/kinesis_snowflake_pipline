@@ -64,11 +64,6 @@ class KinesisFireHoseStack(Stack):
        
         
         
-        ### deploy the arflow dags script 
-        
-        _s3deploy.BucketDeployment(self,"deployment",
-                                  sources=[_s3deploy.Source.asset('dags/')],
-                                  destination_bucket=airflow_dags_bucket.bucket_arn)
         
         
         

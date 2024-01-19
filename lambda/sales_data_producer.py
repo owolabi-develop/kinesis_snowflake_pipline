@@ -10,7 +10,7 @@ fake = Faker()
 
 def generate_property():
    
-    """Generate a fake real estate property."""
+    """Generate a fake sales data."""
     
    
 
@@ -32,7 +32,7 @@ def handler(event,context):
         response = kinesis_client.put_record(
             StreamName=os.environ['STREAM_NAME'],
             Data=json.dumps(properties).encode('utf-8'),
-            PartitionKey=properties['city']
+            PartitionKey=properties['']
         )
     return response
     
