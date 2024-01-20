@@ -31,7 +31,7 @@ def customer_data_process():
         file_format="(type = 'CSV',field_delimiter = ',')",
         pattern=".*[.]csv",
     )
-   
+    copy_into_table
     
 
     

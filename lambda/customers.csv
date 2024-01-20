@@ -1,300 +1,301 @@
 product,customer_name,customer_email,phone_number,address,city,shipping_address,order_date,quantity,price,country,payment_method,status
-Nest Thermostat,Courtney Ward,williamsdawn@example.org,5264594327,"14833 Cameron Walk Suite 599
-Boyermouth, AR 42707",South Jill,"25494 Hartman Pine
-PlayStation 5,Erik Rodriguez,natasha97@example.org,986.236.7088x019,"76693 Thomas Burgs Apt. 988
-Kristintown, CA 14988",East Michael,"USNS English
-FPO AA 76092",2024-01-01,1,325.42,Palau,Cash on Delivery,Shipped
-Fitbit Versa,Pamela Simpson,greenlaura@example.net,001-212-442-0433x942,"670 Lisa Row Suite 886
-Lynchside, DC 20373",South Debraberg,"31902 Mcconnell Creek
-Phillipschester, SC 73441",2024-03-14,3,280.93,Puerto Rico,Cash on Delivery,Delivered
-Brother Laser Printer,Felicia Brown,dcooley@example.org,475.712.5769x14306,"1399 Jennifer Island
-Darlenemouth, WA 38207",North John,"267 Hoover Hills
-West Mark, ID 04722",2024-03-05,2,720.26,Djibouti,PayPal,Processing
-HyperX Cloud,Angel Ford,eric57@example.net,+1-399-602-2709,"PSC 0345, Box 1128
-APO AP 55969",East Joebury,"421 Ruth Crescent
-South Manuelberg, MA 02940",2024-03-31,2,984.27,India,Cash on Delivery,Cancelled
-Corsair K95,Melanie Morris,kim36@example.org,2279291911,"083 Bishop Square Apt. 430
-Port William, VI 37592",New Theresa,"29984 Cunningham Trail
-West Sean, CA 68621",2024-01-16,4,1417.72,Cuba,Credit Card,Cancelled
-Sony Cyber-shot,Tina Gay,baileyamanda@example.net,724.222.3370,"5721 Penny Gateway Suite 621
-Jessicachester, AL 11330",Port Michaelside,"8390 Bishop Glen
-Davidfurt, CO 16062",2024-01-04,3,1011.43,Greenland,Credit Card,Shipped
-Sony Alpha,Tonya Scott,davidbond@example.com,(826)538-0686x69925,"4985 Cook Gateway
-Lake Nancyland, NY 54073",Sheltonland,"3695 Austin Bypass
-South Amberstad, KS 72835",2024-01-17,1,1481.98,Niger,Credit Card,Cancelled
-Microsoft Surface,Christina Rangel,swhite@example.org,001-488-699-2574x048,"27688 Smith Place
-Timothyshire, OR 92945",East Colleen,"802 Ali Trail
-Veronicaville, VI 73373",2024-04-03,5,688.91,Cape Verde,PayPal,Processing
-PlayStation 5,Dominique Black,richard73@example.net,649.677.3089x88712,"USS Carter
-FPO AP 61001",Smithborough,"89576 Cline Mews
-North Andrea, DE 58536",2024-02-18,3,1214.42,Cuba,Credit Card,Processing
-LG OLED TV,Jonathon Bradley,deborah36@example.org,759-692-3180x649,"802 Weber Mission
-New Stevenfort, IL 81901",Mendezfurt,"0566 Robles Cliff Apt. 781
-Bellville, RI 01164",2024-02-09,3,581.62,Slovakia (Slovak Republic),Cash on Delivery,Shipped
-Roku Streaming Stick,Laura Perry,sosadean@example.com,001-906-693-0649x117,"794 Moss Ridges
-South Douglas, NE 84693",Perezborough,"829 Norman Hollow Suite 894
-Hensonborough, AZ 75010",2024-01-11,4,191.96,Zimbabwe,PayPal,Delivered
-Lenovo ThinkPad,Donald Delacruz,mbridges@example.org,+1-659-744-1552x28490,"2846 Ashley Cape Apt. 695
-South Christine, KS 69022",New Bradley,"5099 Morgan Canyon
-North Williamhaven, MT 63979",2024-03-11,5,1726.63,Sierra Leone,PayPal,Shipped
-Shure SE215,David Hartman,nwebster@example.net,(595)898-0940x750,"67559 Clinton Plains Suite 374
-East Amberchester, AR 55299",East Megan,"30500 Theresa Oval
-Carterview, OR 64920",2024-04-06,2,1845.33,British Indian Ocean Territory (Chagos Archipelago),Cash on Delivery,Processing
-Harman Kardon Go+Play,Hunter Taylor,davisamy@example.com,(959)956-9478x50646,"2838 Jennifer Courts
-North Michelle, DE 73276",West Teresa,"Unit 6479 Box 5171
-DPO AE 07552",2024-01-05,3,771.6,South Africa,PayPal,Delivered
-Epson EcoTank,Jennifer Payne,david23@example.org,(730)808-0999,"515 Kevin Motorway
-Lake Davidchester, CA 40266",New Karenberg,"13034 Brittany Rapid Suite 310
-Austinside, MH 47186",2024-02-26,4,1021.91,Oman,PayPal,Cancelled
-Beats Solo,Amber Carroll MD,pmckay@example.net,4583987415,"35943 Julie Club Apt. 643
-Lake Ronald, CA 93100",Miguelchester,"2412 Reginald Squares Suite 294
-Browningmouth, MN 71796",2024-04-10,1,788.38,Hong Kong,Credit Card,Processing
-Fujifilm Instax,Francisco Contreras,xwilson@example.com,546-879-4996,"075 Zimmerman Heights
-West Joe, NE 03785",Port Jamie,"8673 Ryan Park
-Laurafort, NJ 24965",2024-03-23,4,1601.57,Pitcairn Islands,Credit Card,Processing
-GoPro Hero,William Randall,mistyfranklin@example.com,527-636-4950,"30402 Downs Bypass Apt. 090
-Johnport, PW 88719",Jorgeside,"5864 Ivan Throughway Suite 866
-Port Brenda, MH 31555",2024-02-25,4,591.31,Dominica,Credit Card,Delivered
-Alienware Area-51,Nicholas Perez,dudleyheather@example.org,(369)755-7242x019,"7004 Lam Knolls Apt. 288
-Richardshaven, SC 13912",East Danielle,"541 Acevedo Islands Apt. 398
-East Whitneyborough, MA 86361",2024-02-21,3,253.56,Paraguay,PayPal,Delivered
-Panasonic Lumix,Jose Dillon,lewislauren@example.com,223.354.6717,"912 Laura Isle
-Michaelstad, VA 69509",Lake Penny,"0339 Guerrero Shoals Apt. 060
-Port Maurice, IA 99455",2024-03-17,1,1756.54,Liechtenstein,Cash on Delivery,Cancelled
-Atari VCS,Jason Simmons,wsmith@example.net,766-651-7512x2561,"860 Rodriguez Forest
-South Tinaborough, MT 10985",Michaelview,"PSC 5364, Box 7513
-APO AP 09779",2024-03-25,5,1274.45,Bolivia,PayPal,Delivered
-Canon Vixia,James Cruz,brianburns@example.com,001-769-957-2824,"809 Carol Court Suite 098
-Joseland, ND 51274",Davidstad,"82969 Douglas Springs
-Townsendmouth, DE 80444",2024-04-13,4,742.31,Lithuania,Credit Card,Shipped
-PlayStation 5,Brendan Whitney,daniel14@example.net,(895)766-1095x13951,"1266 David Fall Suite 932
-New Elizabeth, AR 14879",Lake Devonstad,"68233 Cooper Ports Apt. 141
-Hunterburgh, SD 66849",2024-01-30,4,1945.56,Qatar,Cash on Delivery,Cancelled
-GoPro Hero Session,Lindsey Riley,chad25@example.com,001-768-707-9801x34596,"43745 Holly Wells Apt. 310
-New Erikaburgh, OK 14667",East Gina,"0058 Lopez Light
-Alecton, CA 91341",2024-02-22,3,1113.97,Guadeloupe,Cash on Delivery,Shipped
-Bose SoundLink,Melissa Campbell,mark11@example.org,965.336.6736x91415,"33880 Pham Harbors
-Burnettport, MD 36018",Ritafurt,"670 Hurst Street Apt. 677
-Mckinneyton, NH 28851",2024-01-07,1,1037.42,Austria,PayPal,Shipped
-Amazon Echo,Andrew Brown,jason64@example.org,+1-320-808-7031x1521,"84556 Adam Views Suite 775
-Robinsonborough, MS 92039",Lake Johnview,"354 Cynthia Estates
-Christineberg, TN 76451",2024-02-29,3,676.44,Solomon Islands,Cash on Delivery,Processing
-Sonos Beam,Terry Leach,latashale@example.net,(844)936-0627x43239,"1783 King Lodge Suite 522
-Melissaside, GA 79978",Warrenstad,"645 Ruben Courts Apt. 932
-Crystalfort, VT 73048",2024-01-13,3,999.84,Montenegro,Cash on Delivery,Shipped
-Kindle Paperwhite,Brandon Gregory,hensonamy@example.org,(280)850-7220,"591 Elliott Forest
-Brittanyfort, RI 35601",East Danielburgh,"198 Martinez Inlet
-Weekstown, FM 98651",2024-02-11,2,1528.57,Paraguay,Credit Card,Delivered
-Chromecast,Tiffany Turner,cassandra03@example.com,001-932-598-4495,"212 Maria Harbor Suite 595
-East Maryton, ND 41189",Hayeshaven,"828 Hebert Place
-Brooksview, VI 59994",2024-03-02,2,1184.17,Saint Kitts and Nevis,Credit Card,Delivered
-UE Megaboom,Kim Christian,torresashley@example.org,528.472.4692,"8658 Pollard Fork Suite 733
-Wardton, TX 06478",New Nancyland,"PSC 1903, Box 1997
-APO AP 10195",2024-02-07,2,1407.09,Guadeloupe,PayPal,Cancelled
-Western Digital HDD,Sherry Burton,xbarnes@example.com,984-311-0940x170,"206 Smith Bypass Apt. 083
-Lake Brookeport, AR 51417",West Brookeshire,"4702 Jose Stream Suite 249
-New Christopher, KY 83674",2024-01-26,1,847.37,Malawi,Cash on Delivery,Cancelled
-Lenovo ThinkPad,Lisa Warner,jacob77@example.org,227-670-8035x64683,"210 Kathryn Trail
-East Derrick, WA 82140",Lucasmouth,"0336 George Garden Apt. 847
-Wallerport, ME 41316",2024-01-20,1,1085.44,El Salvador,PayPal,Shipped
-GoPro Hero,Abigail Moore,christophermiller@example.org,001-725-242-3969x6085,"495 Clark Trail
-East Stephanieport, VA 48476",East Jackie,"391 Christy Unions Apt. 277
-Port Jason, AS 09669",2024-02-14,5,1141.4,Togo,Credit Card,Delivered
-Google Pixel,Kyle Maxwell,ggreen@example.net,996-906-3758x275,"503 Amy Walks
-North Claudia, WV 37131",Baileymouth,"80867 Dakota Throughway
-West Justinhaven, MP 69441",2024-03-16,4,1191.82,Puerto Rico,Credit Card,Shipped
-GoPro Hero Session,Carlos Martin,tommy61@example.net,(559)805-4567x22429,"0870 Garcia Stream
-North Julie, AS 43085",Yanghaven,"962 Julie Bridge Suite 204
-Port Michaelland, ME 84322",2024-01-06,3,703.92,Saint Martin,Credit Card,Shipped
-Lutron Caseta,Jeremy Moore,ambersims@example.org,925.828.7600x03168,"04180 Timothy Islands Suite 432
-Kingfort, LA 79777",New Williamside,"5324 Jessica Estate
-Lake Joseph, PR 01602",2024-03-23,3,511.84,Solomon Islands,PayPal,Cancelled
-GoPro MAX,Sheri Delacruz,vgibson@example.net,798-705-5566x4061,"45573 Bean Mountains
-North Steventon, HI 74359",West Sylviashire,"PSC 5575, Box 5974
-APO AP 27481",2024-01-25,3,1520.54,Egypt,PayPal,Shipped
-Kindle Paperwhite,Lisa Leblanc,larrypineda@example.net,746-609-1836,"USNV Chandler
-FPO AP 07138",South Melinda,"35282 Kelley Meadows
-Cameronside, VI 25198",2024-04-06,3,713.54,Finland,PayPal,Processing
-Nikon Coolpix,Luis Parker,kathy32@example.com,322.240.7899x059,"PSC 6069, Box 8445
-APO AA 30763",Michaelchester,"3351 Hickman Groves Suite 718
-New Josefort, VA 45243",2024-03-01,2,759.49,Saint Pierre and Miquelon,Cash on Delivery,Processing
-Garmin VIRB,Karen Warren,tgraham@example.net,6688703540,"84969 Patrick Orchard
-Port Lynn, IA 01841",Riosburgh,"31319 Kramer Rest Apt. 337
-Kristenmouth, OH 60868",2024-04-09,1,1207.65,Reunion,Credit Card,Cancelled
-Sony Handycam,Michael Cox,ryanpreston@example.net,479-996-6086x10029,"USS Keith
-FPO AE 25990",North Mitchellstad,"199 Nicole Ways
-West Rebecca, IL 15337",2024-02-23,5,1936.12,Canada,Cash on Delivery,Shipped
-Fujifilm Instax,Kimberly Gray,jefferymccoy@example.net,929.971.1746x9489,"945 Douglas Square
-Stevensberg, IL 19051",New Davidview,"758 Mary Park Apt. 686
-South Rachelview, IL 68497",2024-04-02,5,1816.58,Faroe Islands,PayPal,Delivered
-Nintendo 3DS,Dennis Morrison,xcollier@example.net,(455)749-6713x841,"40088 Joel Points Suite 442
-New Katherinefurt, KY 94614",Kaufmanshire,"737 Harrison Circles
-East Amandafurt, GU 33956",2024-04-11,5,844.69,Liechtenstein,Credit Card,Delivered
-Dell XPS,Brett Davis,longchristian@example.com,001-757-673-3670x17994,"97112 Cassandra Lodge Suite 330
-Martinezport, VI 27399",North Benjaminchester,"74023 Schwartz Junction Apt. 093
-Connieton, NE 60936",2024-02-27,2,154.54,Croatia,PayPal,Shipped
-Epson EcoTank,Jimmy Cohen,morenojaclyn@example.org,670.904.6320,"297 Jeremy Square Apt. 854
-North Brandonland, MD 17923",Port Elizabethview,"6039 Denise Junctions Suite 826
-Pattersonshire, MI 79538",2024-01-07,2,530.5,Denmark,Credit Card,Shipped
-Roku Streaming Stick,Phillip Moyer,bpeters@example.com,(940)372-6000x74774,"5758 David Valley Apt. 895
-North Jeremy, NE 09161",Lake Keithmouth,"91940 Lawrence View Apt. 989
-Richardville, ND 61148",2024-03-05,1,421.0,Mexico,Credit Card,Processing
-LG OLED TV,Holly Kidd,rjones@example.org,239-688-8955,"210 Megan Rest
-Lake Ariel, PR 55688",West Richardville,"95255 Gary Mill Suite 941
-Beverlymouth, FM 50307",2024-02-26,2,1288.18,Burkina Faso,Credit Card,Processing
-Beats Studio,Jacob Rodriguez,austinamy@example.org,001-816-316-4814x640,"75526 Padilla Hills
-New Christopherbury, ME 21215",South Ianside,"30856 Daugherty Trafficway
-Port Stephanie, MO 02160",2024-02-17,1,963.65,Turkey,Cash on Delivery,Cancelled
-Apple Watch,Mark Vincent,hayesconnie@example.org,(684)970-0103x5758,"052 Howard Court Suite 834
-New Travisview, MD 03845",Ballardtown,"157 Barker Forge
-Donnachester, GA 08579",2024-02-03,4,1520.59,Albania,Cash on Delivery,Delivered
-Insta360 One,Anne Stanley,katherinewhite@example.com,413.755.2203x828,"271 Bennett Extensions Suite 377
-Elizabethmouth, FL 77578",North Jessica,"284 Johnson Forge Suite 907
-New Seanberg, FM 46414",2024-03-21,1,1071.15,Kenya,PayPal,Processing
-GoPro MAX,Nicole Nguyen,karen33@example.org,813.540.1301,"83430 Russell Rapid
-Lake Kelly, VI 35427",Port Christophermouth,"449 Bird Circle
-Williamsburgh, SD 92734",2024-02-23,2,468.08,Reunion,Cash on Delivery,Delivered
-Apple Watch,Nicholas Marshall,anthony18@example.org,+1-840-412-7438x381,"977 Michelle Trace
-West Christine, PW 28302",Smallmouth,"05637 Daniel Stream
-South Thomas, MI 16459",2024-02-01,3,361.01,Comoros,Cash on Delivery,Delivered
-Epson EcoTank,Ryan Murillo,leonardrebecca@example.net,388-901-4153x96330,"9813 Michael Creek
-Fisherfort, OR 64263",Lake Darylmouth,"84498 Allison Passage
-South Carlosville, CT 80766",2024-04-01,4,1347.42,Croatia,Cash on Delivery,Delivered
-JBL Flip,Amanda Mccullough,catherinehart@example.com,686-802-7113,"5586 Noble Lodge
-Port Bradley, LA 70774",West Robin,"6306 Black Pike Suite 578
-Port Tabithabury, PR 14664",2024-01-05,5,569.36,French Southern Territories,PayPal,Shipped
-Ricoh Theta,Sara Green,harringtonolivia@example.net,3203450937,"596 Ward Place
-West Scottshire, CO 67329",North Jennifer,"34880 Kennedy Neck Apt. 169
-Kleinville, AL 77785",2024-01-21,5,960.11,Iran,PayPal,Processing
-Harman Kardon Go+Play,Mary Carlson,brianoliver@example.org,7252237672,"484 Pamela Inlet
-Lake Michelleburgh, AZ 22103",New Manuelmouth,"USNV Humphrey
-FPO AE 96738",2024-01-02,5,1970.7,Russian Federation,Credit Card,Processing
-Apple TV,James Barber,taylorandrew@example.net,995-884-3146x768,"799 Raymond Circle Suite 298
-North Michael, RI 01096",Turnerbury,"73764 White Islands Apt. 741
-West Davidstad, AS 48213",2024-02-26,5,226.66,Philippines,PayPal,Shipped
-Bose SoundLink,Rebecca Wilkins,deborahrivera@example.org,579.729.3647,"114 Chelsea Rapid Apt. 512
-Port Tammy, TX 30385",West Jonathan,"1545 William Park Apt. 797
-Matthewstad, VI 58020",2024-01-04,3,396.98,Philippines,Credit Card,Shipped
-Shure SE215,Anne Christensen,iduncan@example.org,452.242.8899,"5034 Stephanie Mission Apt. 815
-New Thomasstad, ID 62016",New Brianborough,"926 Zimmerman Fall Suite 360
-Marcusville, VA 54667",2024-03-08,4,722.5,Tunisia,Credit Card,Delivered
-Xbox Series X,Amy Evans,bryan97@example.com,(875)829-3917x421,"419 Trevino Rue
-North Juliefort, AK 44994",West Amanda,"632 Amber Plaza
-North Rachel, ME 96910",2024-03-18,1,1303.16,Palestinian Territory,Cash on Delivery,Shipped
-Epson EcoTank,Candice Garcia,vmckee@example.net,001-667-262-5124,"PSC 6161, Box 3826
-APO AP 86231",Dylanside,"1724 Dennis Pine
-Lake Joelbury, DE 14354",2024-04-17,5,1694.86,Jordan,Credit Card,Shipped
-Xbox Series X,Timothy Jones,hernandezmelissa@example.com,339.976.1689x878,"07468 Jessica Gardens Apt. 767
-Thomasfurt, DE 31873",New Kenneth,"1280 Kathryn Avenue Suite 248
-East Michelleport, DE 59904",2024-01-28,1,161.54,Mozambique,PayPal,Delivered
-Raspberry Pi,Rachel Gonzales,jeremiah59@example.net,564-549-2011x17383,"USCGC Ford
-FPO AP 31320",Vasquezton,"20187 Brenda Mount
-Jonesburgh, PW 23009",2024-01-22,3,1850.99,Maldives,PayPal,Processing
-Nintendo Switch,Diana Cervantes,mark47@example.net,389-967-7774x5411,"8288 Ruiz Parkway Apt. 548
-Robertschester, LA 25209",Owensbury,"975 Dawn Rapid
-Danielbury, AK 90192",2024-03-07,4,902.95,Samoa,Credit Card,Cancelled
-Logitech G502,Lauren Walter,qfrey@example.com,713-650-1583x2115,"48542 Aaron Plaza
-Jacobmouth, VI 14527",Blankenshipton,"Unit 9866 Box 5950
-DPO AA 20922",2024-02-04,3,614.86,Saudi Arabia,Cash on Delivery,Processing
-GoPro Hero,Brenda Benitez,stephen82@example.com,518.612.0557x848,"39131 Michael Meadow
-East James, TX 91299",Wallaceton,"087 Sutton Club
-Port Kirkside, VI 75970",2024-04-02,1,340.63,Vietnam,Cash on Delivery,Delivered
-Zhiyun Crane,Aaron Silva,matthewjohnson@example.org,946.667.8330,"11869 Brown Crossing
-West Allison, NE 07005",Dianaburgh,"8855 Kenneth Corners Apt. 152
-West Sandrafurt, FL 55860",2024-02-28,3,1617.95,Saint Pierre and Miquelon,PayPal,Cancelled
-Fire TV Stick,Laura Cruz,angela52@example.net,+1-592-355-9296x6494,"184 Lopez Drive Suite 683
-Pooleshire, AR 07724",East Madison,"97749 Daniel Junctions Suite 565
-South Heather, FL 98442",2024-03-18,1,1448.19,Isle of Man,Credit Card,Processing
-Ricoh Theta,Michelle Hughes,josephdavis@example.net,(905)990-5365,"Unit 2961 Box 7690
-DPO AP 85432",North Michaelhaven,"14286 Jennifer Streets Suite 337
-North Eric, MI 13042",2024-02-25,3,1200.7,Peru,Credit Card,Processing
-Corsair K95,Brent Reynolds,martinezwilliam@example.org,001-551-643-1587x05887,"9762 Mark Street Suite 421
-West Samantha, OR 61641",North Rachaelport,"625 Deborah Viaduct
-East Mikayla, DE 22073",2024-02-04,1,115.52,Anguilla,PayPal,Shipped
-Ring Video Doorbell,Lauren Stewart,meganyoder@example.org,(652)874-2337,"74381 Peterson Forge Apt. 921
-Charlesstad, NY 28132",Laurafort,"72021 Davis Island Apt. 343
-Lake Barbarashire, CO 86377",2024-04-08,5,689.81,Palestinian Territory,PayPal,Cancelled
-Philips Hue,Dennis Heath,rickyunderwood@example.com,761.540.5398x41936,"PSC 2763, Box 3098
-APO AP 32983",West Robert,"1975 Johnathan Isle Suite 313
-Courtneymouth, PA 95950",2024-03-03,3,1045.48,Greece,Credit Card,Delivered
-Canon EOS,Vanessa Watkins,joseph01@example.com,817.442.8404,"92876 Tracy Corner Suite 605
-Jeffreystad, AL 47965",Lake Shawn,"312 Lopez Forges Suite 393
-Johnsonton, MP 48877",2024-01-04,4,1863.04,Cambodia,Cash on Delivery,Delivered
-Bowers & Wilkins Speakers,Melissa Hansen,amyle@example.org,9186019214,"29346 Bethany Knoll
-New Michael, MT 81508",Daniellehaven,"67450 Smith Lodge
-New Tracy, LA 98449",2024-02-29,3,252.45,Azerbaijan,Credit Card,Delivered
-Lenovo ThinkPad,Shannon Pope,sullivantom@example.net,309-612-0758x74866,"PSC 0792, Box 3673
-APO AP 32798",South Sarahfort,"3815 Cisneros Points Suite 369
-Robinborough, NJ 79808",2024-01-18,3,1183.96,Kazakhstan,Credit Card,Cancelled
-iPad,Stephen Werner,briansherman@example.com,001-729-616-5378x3686,"163 Susan Prairie Suite 633
-Lake Adrianville, DE 44676",East Robinview,"31288 Kevin Ports
-Port Lauren, UT 63344",2024-01-02,2,522.6,Algeria,Credit Card,Cancelled
-Dell XPS,Kevin Hernandez,ymcgee@example.com,247-355-5570x639,"7629 Jackson Hill
-Millerport, AL 52193",North Stanley,"7187 Stanton Keys Apt. 285
-North Virginiamouth, NC 90607",2024-01-26,4,908.82,Czech Republic,Credit Card,Cancelled
-Skullcandy Crusher,Keith Mckinney,thompsonsharon@example.com,(814)975-0278x912,"85721 Valerie Road Suite 837
-Alexton, NE 55015",Rogersland,"28222 Kenneth Prairie
-Port Crystal, KY 76079",2024-01-24,1,1658.68,Solomon Islands,Cash on Delivery,Processing
-Ecobee SmartThermostat,Andrew Larson,anthonyhampton@example.net,470.309.1928,"6981 Roberts Station Apt. 919
-North Meghanchester, NJ 12680",Williamburgh,"3412 Charles Mews
-Thompsonfurt, WI 43702",2024-02-09,5,651.67,United Kingdom,PayPal,Processing
-Panasonic Lumix,Timothy Lopez,odelgado@example.net,001-249-227-3512x27573,"342 David Inlet
-Morenomouth, MI 34474",Stevenshire,"7359 Santos Burg
-Kerryton, ID 22570",2024-04-07,2,1300.09,Papua New Guinea,Cash on Delivery,Cancelled
-Garmin VIRB,Edwin Richardson,manningandrew@example.net,(226)312-7216x490,"8157 Mary Via
-Monicaton, RI 44700",Port Maryborough,"340 Allen Underpass
-Williamsburgh, OR 73642",2024-02-04,3,670.79,Saudi Arabia,PayPal,Processing
-Garmin VIRB,Jason Harvey,harnold@example.org,649-791-3183,"86382 Kimberly Ports Suite 207
-West Mark, KS 49509",Shepherdport,"266 Flores Manors
-Denisetown, VT 64803",2024-03-30,2,1333.1,South Georgia and the South Sandwich Islands,Credit Card,Delivered
-Chromecast,Lauren Bishop,jamesryan@example.org,001-238-569-7369x79445,"160 Christopher Motorway
-North Lori, MP 93210",Brandonland,"182 Williams Haven Suite 337
-Port Christopherland, VI 91632",2024-01-21,4,932.79,Saint Martin,Cash on Delivery,Delivered
-Nintendo 3DS,Stephanie Gonzalez,jeffreycurry@example.com,871.452.9896x8390,"3486 Gibbs Ranch Suite 908
-North Laura, PA 17228",North James,"609 Smith Circles Apt. 021
-Lambertmouth, IN 69495",2024-02-24,3,1861.03,Micronesia,Cash on Delivery,Shipped
-Manfrotto Tripod,John Garcia,garrettclark@example.com,001-813-650-0777x44991,"0890 Leroy Flat Apt. 581
-North Janetbury, WV 53514",Mendozaburgh,"037 Amber Greens Apt. 702
-Lewisberg, MI 06388",2024-01-25,4,341.01,Puerto Rico,Credit Card,Shipped
-GoPro Hero,Aaron Barnett,martinezdonna@example.org,001-313-653-7566,"97570 Smith Pine Suite 063
-West Larry, HI 24070",Morrisonborough,"USNS Dunn
-FPO AE 77011",2024-01-30,5,752.84,Cameroon,Cash on Delivery,Processing
-Philips Hue,Donald Jimenez,awilliams@example.org,806.952.3535,"8437 Pitts Falls
-Lake Erin, RI 14856",Ryanbury,"05617 Laurie Crest Suite 476
-Lake Ryanland, MO 52202",2024-04-01,5,1954.51,Botswana,Cash on Delivery,Delivered
-Jabra Elite,Denise Reid,mark68@example.net,831-961-4583,"75688 Lee Trail Suite 936
-Taylorbury, OH 42619",South Stevenside,"890 Beverly Bypass
-Lake Laura, NE 44272",2024-01-27,5,1305.28,Congo,PayPal,Cancelled
-DJI Ronin,Scott Williams,jyoung@example.com,361-532-8304,"808 James Dale
-South Andreatown, KY 59682",Port Jamesland,"665 Philip Throughway Suite 639
-Deborahborough, OK 80495",2024-01-30,4,1599.65,Dominican Republic,Cash on Delivery,Delivered
-Amazon Echo,Erika Bailey,michelle02@example.org,305-718-1666x8164,"2431 Mark Mall
-Port Andrewhaven, PR 88553",South Josephview,"Unit 0753 Box 4494
-DPO AP 87376",2024-04-03,2,360.45,Dominican Republic,PayPal,Cancelled
-Jabra Elite,Diana Villa,kelly25@example.org,548-626-5293x2013,"386 Benjamin Flats
-South Terrishire, DE 06306",Hernandeztown,"667 Villanueva Knolls
-Paulfort, KS 05739",2024-02-05,2,127.02,Egypt,Credit Card,Delivered
-Beats Solo,Robert Lee,colin51@example.net,+1-766-804-3493x2072,"3516 Jennifer Ports
-North Jasminefurt, PW 97188",Lake Joshuahaven,"285 Kimberly Roads Suite 168
-Michaelshire, MS 19456",2024-02-07,1,339.02,Benin,Credit Card,Delivered
-Nikon DSLR,Kimberly Murphy,cmyers@example.com,884-455-5427x8673,"56403 Julia Street
-Murphyberg, PR 52152",South Kimberlyland,"00699 Mccall Stravenue
-East Ana, NJ 76555",2024-01-16,5,1492.02,Cuba,PayPal,Cancelled
-Canon PowerShot,April Livingston,qhernandez@example.com,001-318-692-5857x799,"95198 Shane Key
-Christopherport, OR 05175",Port Jennifertown,"19257 John Point Suite 992
-Williamsport, NM 82215",2024-03-12,3,1309.09,Bosnia and Herzegovina,Credit Card,Cancelled
-Garmin VIRB,Brenda Stevens,jmorales@example.org,(540)488-9430,"7041 Shannon Cove
-South Frank, ID 33048",Alvarezshire,"0641 Stephens Stravenue
-Cannonchester, RI 91999",2024-03-25,3,1577.2,Mexico,Cash on Delivery,Delivered
-DJI Ronin,Nancy Perez,tranalexandra@example.org,835.231.0070,"442 Bruce Key
-Lindafort, AS 04445",Kimberlyburgh,"1282 Vega Viaduct Suite 098
-East Ericport, AR 57079",2024-02-16,4,716.71,Argentina,Cash on Delivery,Shipped
-Raspberry Pi,Jim Suarez,nfuller@example.net,+1-901-285-4961,"17651 Thomas Isle
-Lake Meganland, OK 21765",Taraville,"447 Erickson Branch Suite 596
-Lake Williamside, GU 04431",2024-01-08,5,1497.29,Bouvet Island (Bouvetoya),Cash on Delivery,Delivered
-Rode VideoMic,Kimberly Jones,jamestaylor@example.org,969.760.4576,"064 Bethany Stream
-Dudleymouth, MH 66773",Port Madisonfort,"324 Jones Ville Suite 913
-Butlerport, IA 86226",2024-03-09,5,1611.57,Saint Pierre and Miquelon,PayPal,Processing
-Bowers & Wilkins Speakers,Daniel Harding,ppalmer@example.net,001-488-434-7067x8514,"63248 Lisa Knoll
-South Margaretville, FM 30428",East Kimberlybury,"USNV Pennington
-FPO AE 66256",2024-04-06,5,346.44,Sierra Leone,PayPal,Cancelled
+Garmin VIRB,Carol Williams,georgefields@example.net,001-699-409-2654,"3345 Simpson Highway Suite 044
+Micheleview, AK 73377",Coxside,"8951 Clarke Drive
+West Gina, IN 13928",2024-02-14,4,959.93,Ireland,Credit Card,Shipped
+Zoom H4n,Benjamin Baird,mmendoza@example.com,391.679.0054x89485,"0804 Walker Lodge Apt. 710
+Port Tyler, AR 73923",Jamesfurt,"074 Rebecca Highway
+Kimberlyburgh, OH 07798",2024-01-21,4,390.49,Oman,Cash on Delivery,Shipped
+Lutron Caseta,Kenneth Lee,cfreeman@example.net,+1-447-497-8986x07718,"043 Smith Parkway
+Bensonhaven, MN 66463",New Jeffreyshire,"445 Herring Expressway Apt. 192
+Thomasfort, AS 21027",2024-03-02,4,110.17,Colombia,Credit Card,Processing
+Olympus Tough,Melinda Ross,dwilliams@example.com,+1-997-276-2379x5021,"009 May Burgs
+Hugheston, NJ 39485",West Danielland,"1389 Becker Mews Apt. 543
+Garzaland, HI 86566",2024-01-17,2,1400.85,Botswana,Cash on Delivery,Delivered
+Samsung Soundbar,Tamara Riley,jamesjohnson@example.net,6938681257,"0625 Matthew Summit
+Lake Richard, MN 93417",Jodishire,"066 Matthew Forge
+East Crystal, GU 73156",2024-02-17,1,1996.74,Faroe Islands,Credit Card,Processing
+Nintendo 3DS,Donna Davis,alanreeves@example.net,001-233-668-6732x85200,"30034 Jorge Mount
+Grimesfort, AL 53118",Amandafort,"9905 Lisa Fork
+Williamland, ME 37225",2024-01-25,5,446.41,Bolivia,PayPal,Processing
+Samsung Galaxy,Rebekah Walker,matthewsampson@example.com,8882654705,"1212 Gardner Street Apt. 866
+Danielside, WV 43542",Lake Shelly,"709 Kaitlyn Forge Apt. 235
+Dianeland, IA 85875",2024-01-24,3,663.22,Jamaica,Credit Card,Delivered
+SteelSeries Arctis,Michele Dean,nicolethompson@example.org,+1-624-910-4746x0573,"6678 Bryan Stravenue
+Thomasberg, GA 26438",Powersstad,"98026 Andrew Squares
+Millerberg, GU 63855",2024-03-18,5,1683.06,Ghana,Credit Card,Cancelled
+Bose SoundLink,Keith Wise,kevin00@example.com,(328)849-0577x97993,"0752 Tiffany Key Apt. 117
+New Diane, PW 03062",Port Nancy,"92381 Joshua Prairie Suite 603
+Knoxfort, MT 51942",2024-03-30,3,1754.19,Sweden,Cash on Delivery,Processing
+AKG K240,Bianca Diaz,acastillo@example.com,832-524-6432x73424,"876 Mcintosh Trail Apt. 558
+New Raymond, NH 27076",Riveramouth,"667 Anthony Walks Apt. 951
+Karenborough, VT 09233",2024-04-07,3,202.94,Greece,Credit Card,Cancelled
+Nikon Coolpix,Brian Wilson,blackelizabeth@example.com,(714)546-9274,"55337 Johnson Stream
+Rosariofurt, TN 33957",East Jonathanberg,"48611 Lozano Corner
+Tuckerton, TX 86533",2024-03-01,5,226.38,Jordan,Cash on Delivery,Processing
+Logitech G502,Angela Collins,lawsondavid@example.org,001-322-269-3413,"17858 Nancy Mount Apt. 644
+South Kelly, HI 33678",Rodriguezfurt,"5111 Robinson Port
+Lake Joycefort, MP 90992",2024-02-16,2,233.98,San Marino,Credit Card,Shipped
+Sony Alpha,Jade Martinez,uwilliams@example.com,2788993179,"9360 Elizabeth Motorway Suite 730
+West Debbiemouth, SD 83641",Thomasview,"4763 John Cliff Suite 575
+South Joseph, DE 85473",2024-02-28,5,434.84,Wallis and Futuna,Cash on Delivery,Cancelled
+Zoom H4n,Courtney Stone,iray@example.net,656-758-1844x39858,"654 Jones Club
+West Michaeltown, CA 87793",North Joelport,"PSC 3071, Box 8356
+APO AP 31811",2024-03-25,5,452.75,Hungary,Credit Card,Cancelled
+Plantronics BackBeat,Matthew Schultz,xlee@example.com,600.486.8187x7066,"Unit 8310 Box 9865
+DPO AE 35944",Port Rhondaport,"73417 Courtney Turnpike Apt. 364
+East Nicholasland, PA 01337",2024-04-07,4,1212.94,Cayman Islands,Cash on Delivery,Shipped
+Sony Alpha,Christine Casey,jasonreed@example.org,449.505.4056,"90274 Myers Forks Apt. 194
+Wigginsberg, FL 20339",Cunninghamland,"287 Beth Trail
+Avilaburgh, AR 33253",2024-03-22,2,1127.39,Belize,PayPal,Cancelled
+Microsoft Surface,Edward Cole,amyaguilar@example.org,(409)878-7857x3620,"748 Angela Inlet
+Alisonstad, WI 87637",Roberttown,"873 Victoria Hollow Suite 518
+New Timothyport, TX 46197",2024-01-19,2,1057.83,Wallis and Futuna,Cash on Delivery,Cancelled
+Amazon Echo,Kevin Willis,scott82@example.com,001-514-508-4682x70398,"774 Roberts View Apt. 365
+Callahanmouth, NC 72752",Garyview,"39311 Santiago Union
+Sherimouth, NC 47696",2024-01-15,5,209.46,Lithuania,PayPal,Processing
+Microsoft Surface,Daniel Morales,joehaney@example.com,(864)996-3392,"898 Melendez Forges
+West Jack, TX 45707",East Julia,"63277 Morrison Plains
+Davidland, PR 01763",2024-03-28,2,1925.84,Belize,PayPal,Processing
+Google Pixel,Ashley Jones,darrenkelly@example.com,(493)207-3495x8086,"387 Adam Spring Suite 513
+Wardberg, MN 14061",Farrellton,"7990 Johnson Orchard
+Haleyville, WY 11468",2024-03-05,5,1120.71,Chad,Cash on Delivery,Cancelled
+Blue Yeti,Sharon Wright,emilybrown@example.com,513.357.4441,"600 Randy Island Apt. 754
+Julieland, DE 86865",Lake Ethan,"533 Patrick Divide
+Jacksonton, GU 70185",2024-03-28,5,1593.81,Montenegro,PayPal,Cancelled
+Olympus Tough,Crystal Stone,iryan@example.com,886.906.7676x4402,"9846 Sara Freeway
+New Wandachester, CT 44953",Lake Stephanieton,"97137 Anthony Springs
+East Larry, NM 96885",2024-01-20,3,794.13,Somalia,Credit Card,Cancelled
+Zoom H4n,William Potter,melissa27@example.com,979.592.6799x14783,"0401 Jimmy Underpass
+Parkbury, PR 29868",Lake Ethan,"9874 Michael Knoll Suite 334
+North Robertburgh, KY 64935",2024-03-07,1,773.57,New Caledonia,Cash on Delivery,Shipped
+Nikon Coolpix,Crystal Harding,kturner@example.net,+1-701-924-4702x345,"4457 Bennett Rue
+East Scotttown, HI 02921",Abigailville,"44179 Little Grove Suite 171
+New Philip, ME 56816",2024-02-11,2,1295.55,Tajikistan,PayPal,Processing
+Sony TV,Nancy Colon,maryklein@example.com,+1-661-731-0452,"791 Judy River
+Roseberg, CA 82889",South Jeffreytown,"4269 Horton Meadows
+Michaelbury, RI 13199",2024-03-15,3,949.65,Ukraine,Cash on Delivery,Delivered
+Apple Watch,Antonio Guerrero,hwagner@example.com,(703)412-4576x09100,"4472 Meghan Plaza
+Brianfurt, CT 62186",Nicholasshire,"9189 Adkins Trace
+Micheleton, NM 56300",2024-02-23,3,192.08,Oman,Cash on Delivery,Processing
+PlayStation 5,Victor Lopez,jerrystanley@example.org,001-672-391-4138x7208,"46298 Ashley Lakes Apt. 760
+North Leslie, FL 23522",Charlesside,"98785 Frank Divide
+Carlsonville, AS 46971",2024-02-19,2,890.09,Jamaica,PayPal,Shipped
+Raspberry Pi,Brian Jackson,ebonyrose@example.org,669.578.9435x2322,"3002 Warren Mountains Suite 061
+North Madison, MN 69262",Lake Curtis,"0322 Chen Roads Suite 418
+Lake William, NC 18514",2024-01-04,4,477.52,Yemen,Credit Card,Processing
+Alienware Area-51,Andrew Reid,rgray@example.com,001-928-209-1917x82288,"424 Herrera Island
+Hoffmanchester, ND 54330",North Ryanport,"79709 Dustin Lane Suite 071
+Carolberg, VI 93132",2024-01-31,4,812.8,Pakistan,Cash on Delivery,Delivered
+SteelSeries Arctis,Matthew Christian,bhunt@example.com,991-658-5929,"38751 Gordon Mill Apt. 193
+Sarahfurt, CA 83476",Kellyborough,"961 Garcia Meadows
+Rachelshire, AZ 18829",2024-03-15,3,1123.94,Syrian Arab Republic,Credit Card,Shipped
+Panasonic HC-V770,Ryan Pruitt,morrisrachel@example.org,(387)809-3537x300,"3709 Williams Ports
+Randyland, CA 74870",New Catherine,"382 Elizabeth Roads Apt. 085
+Timothyton, VT 04823",2024-04-16,5,135.29,Nicaragua,PayPal,Delivered
+Canon EOS,Madison Martinez,anthony33@example.org,(755)594-0159x7652,"117 Bruce Shores Suite 553
+Harrisonton, AL 76211",Andrewburgh,"328 Strickland Shoal Apt. 019
+Colemanborough, PW 78659",2024-03-30,4,1044.64,British Virgin Islands,Credit Card,Shipped
+Ecobee SmartThermostat,Diane Harper,amber14@example.com,299-267-7170x06651,"6087 Harry Vista
+South Brittanymouth, AL 94308",Port Franciscoton,"651 Fletcher Loaf
+West David, MD 13199",2024-04-06,3,215.57,Bolivia,Cash on Delivery,Processing
+DJI Mavic,Alexander Schmitt,kharmon@example.com,001-725-271-9708,"14643 Robert Center
+Lake Markburgh, CA 37279",Smithshire,"860 Amy Neck Apt. 797
+South Melissa, MI 04329",2024-01-01,2,1403.42,Saudi Arabia,Cash on Delivery,Cancelled
+Fujifilm Instax,Kimberly Todd,montgomeryjames@example.org,573-944-2354,"2938 Jonathan Isle Apt. 188
+Johnsonview, OR 75408",Henrychester,"20680 Linda Route
+Rodriguezview, AR 69820",2024-01-23,1,1583.59,Lesotho,PayPal,Delivered
+Nest Thermostat,Monica Jennings,hedwards@example.org,(947)514-6544x324,"41004 Ramos Stream Apt. 808
+Murphyland, CT 43064",Lawsonberg,"690 Ponce Freeway
+South Danielleborough, IA 06684",2024-02-12,5,1884.12,Thailand,Cash on Delivery,Delivered
+LG OLED TV,Jacqueline Robertson,leeandre@example.com,+1-441-767-5835,"613 Nicole Pike
+Lake Charlotteside, KS 21227",Johnsonchester,"5877 Antonio Pass Apt. 387
+Bellberg, UT 73455",2024-02-13,1,303.72,Azerbaijan,PayPal,Cancelled
+Bose SoundLink,Jason Ferguson,eharris@example.net,977.566.7942x6772,"87822 Hill Village
+Collinstown, VI 26184",Jamesmouth,"2164 Miller Locks Apt. 547
+Lake Dawnmouth, WY 88886",2024-01-04,4,1496.0,Poland,PayPal,Delivered
+Lutron Caseta,Julian Terry,austinthomas@example.org,351-979-6989,"5205 Toni Valley Suite 170
+Reynoldschester, WV 06494",North Michael,"0361 Walker Lodge
+Haroldland, HI 31731",2024-03-02,2,895.01,Ukraine,PayPal,Processing
+Xbox Series X,Travis Nelson,shawbrittany@example.com,647.981.8337,"281 Sonya Station Suite 131
+Bakerburgh, MH 63300",South Pamela,"8893 King Valleys
+Erinview, CT 96818",2024-03-26,4,1500.29,Austria,Cash on Delivery,Shipped
+DJI Mavic,Melissa Powell,howardkimberly@example.org,001-665-246-0882x3095,"Unit 2517 Box 0283
+DPO AP 41034",New Kaylee,"66474 Cantrell Views Apt. 908
+Stephaniechester, KS 99416",2024-03-19,4,393.77,United Kingdom,PayPal,Delivered
+Insta360 One,Anthony Green,bhenry@example.net,(792)347-2895,"1038 Perry Plain
+Thomasberg, HI 39017",Taylorstad,"247 Jose Mountains Suite 996
+New Travis, MS 14734",2024-01-27,3,1476.06,Isle of Man,PayPal,Processing
+Fujifilm Instax,Elizabeth Bryant,fmcdonald@example.org,492-625-2957x92317,"197 Andrew Expressway Suite 833
+East Melissaside, MP 79651",Katiehaven,"26145 Michael Bypass
+Lake Craig, AZ 51071",2024-04-02,2,857.98,Anguilla,Credit Card,Processing
+Lutron Caseta,Michael Griffith,dianeharrington@example.org,374.947.5624x46699,"25285 Vasquez Freeway
+Amandabury, FL 32264",East Kristina,"USS Patel
+FPO AP 34405",2024-03-16,5,1157.69,Myanmar,Credit Card,Shipped
+iPad,Cynthia Beck,michelesaunders@example.net,257-562-7386x178,"04207 Byrd Spur Apt. 835
+New Donaldton, AZ 48320",Chrisfurt,"7075 Swanson Port
+Port Kevin, NM 20544",2024-01-27,3,1015.62,Malta,Credit Card,Processing
+AKG K240,Amy Sawyer,donna41@example.com,811.396.1224x6808,"39688 Sanchez Ramp
+West James, CT 12253",Lake Theresaport,"688 Morgan Pines Apt. 490
+Craigstad, AL 83548",2024-04-14,5,1710.89,Guatemala,Credit Card,Delivered
+Anker PowerCore,Todd Anderson,hinespriscilla@example.com,(303)514-8238,"USNS Hart
+FPO AA 36465",Mayobury,"2048 Warner Plaza
+West Kimberlyton, PA 83150",2024-04-06,3,757.97,Bolivia,Credit Card,Shipped
+Samsung SSD,Joshua Simon,seth68@example.net,853.595.2133,"729 Melendez Mountain
+Pamelamouth, MH 27556",Trevinotown,"7684 Mills Shoals Suite 384
+Port Brianchester, CA 22634",2024-03-28,5,698.58,Guinea,PayPal,Shipped
+Sonos Beam,Zachary Brandt,traceyfitzpatrick@example.net,504-783-7575x31146,"763 Wolfe Throughway
+West James, MS 58698",Port Susanville,"016 Robert Green Apt. 046
+Jayshire, RI 17196",2024-03-06,5,1125.2,Austria,PayPal,Shipped
+Garmin Forerunner,Kevin Leonard,michaelmoreno@example.org,687.330.7454x9740,"936 Sanchez Union Apt. 899
+South Johnville, GU 23803",Oliviashire,"260 Barnes Pine Suite 211
+West Nicolehaven, MS 59182",2024-02-11,2,423.21,Honduras,Credit Card,Shipped
+Canon PowerShot,Ashley Horn,jason99@example.org,860-409-7953x6512,"PSC 9179, Box 7456
+APO AP 61055",New Victormouth,"56925 Sean Plaza
+Lake Adamton, MI 11137",2024-04-05,2,856.66,Guinea,Credit Card,Delivered
+Marshall Bluetooth Speaker,Spencer Klein,juan42@example.com,960-537-9287x084,"1632 Jade Bridge
+Kimberlymouth, MH 08734",Robertsborough,"615 Melissa Roads Apt. 432
+Rodriguezton, IA 95378",2024-01-03,3,1631.88,Trinidad and Tobago,PayPal,Delivered
+Marshall Bluetooth Speaker,Sarah Ross,nmartinez@example.net,+1-286-566-6235x999,"2612 Amanda Mews Apt. 630
+Melaniechester, NE 24090",Jillview,"4829 Sharon Stravenue
+Brookston, MD 83757",2024-03-23,4,427.51,Luxembourg,PayPal,Shipped
+Amazon Echo,Jose Green,jessica12@example.org,395.585.4785,"8943 Vargas Turnpike
+New Frankchester, MP 92887",West Denise,"USS Pittman
+FPO AE 04043",2024-03-12,1,993.35,British Virgin Islands,Cash on Delivery,Cancelled
+Sony Alpha,James Cox,abrown@example.net,+1-290-394-7269x8235,"0314 Romero Rapid Suite 021
+New Michaelton, NE 02548",East Erin,"8809 Young Vista Suite 618
+Shafferburgh, KS 05926",2024-02-06,2,1205.09,Cambodia,Credit Card,Processing
+DJI Ronin,Carol Hayes,susanjensen@example.org,001-552-603-8393x5713,"815 Marissa Circle
+Mcdanielview, MH 68466",Emilyberg,"85341 Shaw Fort Suite 979
+South Joshua, NJ 24529",2024-02-25,1,1892.42,Portugal,Credit Card,Delivered
+Canon PowerShot,Alexis Rivera,reyesroy@example.org,7716621891,"5590 Brian Spurs
+Lake Amy, ME 90684",East Sharonton,"5295 Christopher Highway
+Port Joshua, WV 08104",2024-03-30,5,1054.1,Australia,Cash on Delivery,Shipped
+Samsung Soundbar,Christian Dickson,pearsonjonathan@example.com,901.608.2542,"974 Rebecca Well Suite 183
+Griffinhaven, DE 98757",North Kevin,"825 Jenkins River
+Ryanhaven, MS 89992",2024-03-04,4,696.12,French Polynesia,PayPal,Processing
+Canon EOS,Shawn Griffin,ybrown@example.org,754-510-2617,"489 Brandon Lights Apt. 445
+New Bobby, SC 39086",Lake Logantown,"58950 Wilson Courts Apt. 963
+South Mary, RI 90130",2024-02-14,3,1333.56,Cayman Islands,PayPal,Delivered
+Canon EOS,John Davis,allisoncampbell@example.com,+1-875-354-3534,"2781 Jones Street Suite 945
+New Natalieville, MA 52103",New Jason,"82667 Vasquez Mission Apt. 085
+East Emily, SC 75630",2024-01-30,2,672.47,Montserrat,PayPal,Processing
+GoPro Hero Session,Brittney Houston,josephhernandez@example.com,+1-519-619-1940x05976,"94227 Boyd Estates
+New Garyland, DC 09562",Blakefort,"3789 Julie Drive Suite 616
+North Kimberlystad, NV 86751",2024-02-03,4,461.08,Palestinian Territory,PayPal,Processing
+Western Digital HDD,Christina Mccoy,andrearobertson@example.com,823-909-2340x1165,"418 Campos Terrace Suite 684
+Port Katie, MI 85889",West Henry,"594 Kenneth Greens
+Kaylahaven, HI 18002",2024-01-31,4,1972.62,Trinidad and Tobago,Cash on Delivery,Shipped
+Corsair K95,Marie Bryant,sydneythornton@example.net,781-357-8147,"3743 Brenda Manors
+East Courtney, NE 40534",Davidshire,"Unit 5430 Box 3157
+DPO AE 79757",2024-03-03,5,1566.79,Nigeria,PayPal,Delivered
+Sennheiser Momentum,Bryan Jarvis,stephaniemeyer@example.net,370.331.4913x3355,"74189 Christopher Fields
+Gabrielhaven, MA 50744",Woodshaven,"526 Laura Club Apt. 135
+Julieberg, IA 14266",2024-01-20,2,158.66,Indonesia,PayPal,Delivered
+Ecobee SmartThermostat,Andre Butler,stephendonovan@example.org,701.729.0224,"96845 Garrett Drives Suite 688
+Harveybury, NC 25010",New Jamesville,"22013 Brian Islands Apt. 713
+Denisetown, VT 84409",2024-03-23,2,789.1,Anguilla,PayPal,Processing
+iRobot Roomba,Anna Rocha,sanchezlisa@example.net,(305)490-8732x97161,"2084 Webb Turnpike
+Lake John, WV 60072",Port Angela,"4260 Nguyen Glens
+East Briantown, MI 02609",2024-01-01,5,649.53,Namibia,PayPal,Delivered
+Nest Thermostat,Matthew Patrick,tcampbell@example.org,269-461-0038x976,"USNV Lewis
+FPO AE 82307",Simpsonstad,"2559 Gregory Station Suite 776
+East Brendachester, OH 28500",2024-04-17,2,1295.54,Jersey,PayPal,Processing
+Zhiyun Crane,Taylor Gomez,arthur25@example.org,783-814-9772x018,"2613 Amber Bridge Suite 663
+Port Victorside, CA 27123",New Andrewhaven,"11565 Jessica Center
+Kathleenstad, VI 97445",2024-02-16,3,665.12,Palestinian Territory,Cash on Delivery,Cancelled
+Polaroid Snap,Carrie Gibson,derekrobinson@example.org,670-693-5341,"231 Cunningham Creek
+North Matthew, PW 92285",West Michele,"76759 Contreras Drives Suite 387
+Walltown, GU 96314",2024-03-05,1,1900.23,Belize,Cash on Delivery,Delivered
+Canon Vixia,Christina Turner,patriciamueller@example.net,001-876-232-9704x641,"72019 Williams Forks Suite 131
+Lorimouth, GU 03312",Cooperburgh,"9547 Michael Squares Apt. 949
+West Isaacburgh, MP 55300",2024-02-04,2,792.33,Nigeria,Credit Card,Delivered
+Microsoft Surface,Jessica Crosby,joshuawallace@example.com,549.990.3628,"9286 Miller Cliff
+South Richard, TX 72005",Jasonland,"554 Hughes Dam Apt. 756
+Anthonyview, AK 97558",2024-03-01,2,721.91,Vietnam,Cash on Delivery,Cancelled
+Zoom H4n,Michael Henderson,karenanderson@example.org,(322)570-7627,"920 Sandra Vista Apt. 917
+North Randy, HI 51082",Reyesport,"25462 Corey Light Apt. 441
+Pattersonberg, AS 02140",2024-04-12,3,466.65,Tunisia,Credit Card,Delivered
+HP Spectre x360,Christopher Schroeder,jeffreyschroeder@example.net,+1-579-677-0945x68239,"2435 Wu Walk Suite 983
+Mariaberg, HI 92888",Clarkton,"57974 Williams Ville Apt. 982
+East Zoe, UT 23799",2024-01-25,1,449.69,United States Virgin Islands,PayPal,Delivered
+Harman Kardon Go+Play,Jennifer Harris,jasonross@example.com,850-541-4490x5680,"USCGC Clayton
+FPO AE 04877",New Brittanychester,"45196 Kimberly Radial Apt. 055
+Kelseyside, IL 86448",2024-01-12,4,262.25,Lebanon,Credit Card,Delivered
+Bose QuietComfort,Dr. Daniel Espinoza,mgraves@example.org,+1-535-960-8013x3138,"814 Kimberly Plain Apt. 836
+Lake Maryside, MT 30884",Perkinschester,"96133 Gordon Port
+Port Dawnland, WY 61884",2024-01-24,2,1831.4,Morocco,Credit Card,Delivered
+Raspberry Pi,Teresa Rogers,patelerika@example.org,001-270-217-1903x304,"PSC 0784, Box 3838
+APO AA 55046",Amyshire,"54781 Timothy Forge Suite 164
+Annashire, CA 95466",2024-02-25,2,485.89,Seychelles,PayPal,Shipped
+Oculus Quest,Kim Smith,bakerjennifer@example.net,(745)971-4271x48821,"PSC 5832, Box 0131
+APO AE 59241",Griffinburgh,"79439 Kenneth Stream
+Woodmouth, NY 66472",2024-03-02,2,754.84,Angola,Credit Card,Cancelled
+DJI Ronin,David Wilson,anthony18@example.net,2769001698,"10077 Smith Camp
+South Laurenmouth, NH 94496",Lake Jonathan,"3240 Cassandra Circles Suite 389
+Aprilland, HI 14237",2024-01-02,2,1153.84,Liberia,Credit Card,Cancelled
+Lutron Caseta,Jon Silva,april61@example.net,(550)957-3833x6093,"42986 Underwood Ports
+West Curtisberg, SD 65160",Charlesfort,"39466 Eric Forges Suite 554
+Port Sandraborough, MO 87547",2024-01-15,2,958.29,Bosnia and Herzegovina,PayPal,Processing
+ASUS ROG,Lori Kirk,millerpaula@example.org,994.359.0765x241,"6681 David Orchard
+Robinsonmouth, IL 72550",Watersborough,"22830 Rubio Valley
+East Nathanview, CT 92981",2024-02-21,1,1961.67,Bhutan,Credit Card,Cancelled
+Dyson Air Purifier,Dwayne Watson,davidli@example.net,268.424.5183x25568,"174 Cook Plain Suite 317
+Lake Robertchester, CA 44077",Freemanside,"6720 Gross Corners Apt. 123
+Stevenmouth, MA 33539",2024-02-27,4,1168.68,Canada,Cash on Delivery,Processing
+UE Megaboom,Jennifer Hudson,bonnie93@example.net,372.220.2003x2064,"689 Kylie Stravenue
+Port Shaun, ND 81326",South Amanda,"08577 Michele Lake Suite 466
+Karenburgh, OR 03290",2024-02-01,5,1672.69,Pakistan,Credit Card,Processing
+Epson EcoTank,Alexander Martinez,lisajoseph@example.org,(484)528-5467,"USNS Wu
+FPO AA 03882",Keithstad,"059 Norton Square
+South Danielview, GA 99179",2024-02-15,4,1863.67,North Macedonia,PayPal,Processing
+Samsung SSD,Erik Christian,taylorwilliams@example.com,893.694.4093,"4048 Miller Spur Suite 024
+South Kimberly, NC 08467",Stantonborough,"USS Compton
+FPO AE 21683",2024-02-20,4,484.91,Svalbard & Jan Mayen Islands,Cash on Delivery,Cancelled
+Zoom H4n,Kevin Glenn,carpenterjake@example.com,(557)489-6837,"6770 Salazar Street Suite 670
+Jamesshire, CO 56573",Millerton,"454 Johnson Drives Suite 211
+Port Jennifer, HI 09419",2024-03-03,4,1132.74,Albania,Cash on Delivery,Shipped
+Zhiyun Crane,Charles Wilson,laurie05@example.com,914.570.0049,"40564 Sanchez Row
+Lake Corey, PW 20152",Port Willie,"9093 Sheena Corners
+Rebeccaside, NM 60177",2024-02-03,2,1665.61,Philippines,Cash on Delivery,Cancelled
+Samsung SSD,Dawn Ferguson,bryan77@example.com,+1-456-773-4786x823,"205 Cooper Meadows Apt. 626
+Anthonyshire, ND 08460",Tylerfort,"44971 Moore Run
+West Matthewton, AL 77833",2024-01-20,2,301.3,Jersey,Credit Card,Shipped
+Insta360 One,Julie Martinez,samuelfleming@example.net,001-386-543-5012x35589,"38514 Mcgee Heights
+West Antonioburgh, RI 40684",Kimberlyside,"10779 Thomas Lock Apt. 160
+Port Meganberg, OK 62618",2024-01-01,2,1399.35,Bhutan,Cash on Delivery,Cancelled
+Samsung Galaxy,Ashley King,kevin98@example.net,(528)777-1197x60827,"302 Tami Greens Suite 417
+Zacharyview, MD 05136",Torresside,"840 Michele Drive
+Brownshire, TX 69253",2024-02-17,4,1418.65,Honduras,Cash on Delivery,Delivered
+JBL Flip,Cynthia Schmidt,annette53@example.net,001-408-425-7749x823,"65466 Jeremy Square
+Lake Darrell, IA 66937",Connieview,"68672 Cox Dam Suite 223
+Lewisport, ND 19065",2024-01-02,4,778.27,Jordan,Cash on Delivery,Delivered
+Atari VCS,Kara French,parsonstina@example.net,001-224-449-6333,"PSC 9523, Box 7344
+APO AA 34476",Kennethside,"44601 Phillips Walks Suite 519
+Lake Brian, VA 61071",2024-02-29,5,1004.56,Iceland,Cash on Delivery,Processing
+Samsung Soundbar,Colleen Freeman,cjackson@example.net,001-894-208-0408,"2302 Michele Pike Apt. 709
+Nelsonmouth, CA 30093",Barrettmouth,"64505 Daniel Rue
+Stevenschester, NJ 89891",2024-03-03,5,840.75,Switzerland,Credit Card,Delivered
+DJI Mavic,Jeffrey Johnson,mackedward@example.net,(597)433-1146,"7370 Amanda Divide Apt. 028
+South Stephen, PR 11868",New Blake,"34606 Peters Prairie Apt. 876
+South Cassandraberg, UT 19540",2024-03-23,5,657.13,Korea,PayPal,Processing
+Panasonic Lumix,Miss Kristen Ramirez DDS,stephanie26@example.com,375-376-9608,"38109 Brady Locks
+Kimstad, VT 18549",Port Rebecca,"405 Spencer Burgs
+Port Brian, SD 35986",2024-04-03,4,1617.84,Cayman Islands,Credit Card,Delivered
+HyperX Cloud,Tammy Thomas,iwalter@example.com,492-953-0354,"208 Brown Loop
+Atkinsborough, KS 67632",North Christopher,"7947 Moore Plaza
+New Kimberly, GU 22389",2024-01-22,2,1062.75,Nepal,Cash on Delivery,Cancelled
+Dyson Air Purifier,Alexis Vega,carlosjones@example.org,001-412-378-4720,"707 Keith Lodge
+Gardnermouth, UT 62383",West Brian,"65483 Hale Square
+North Michaelberg, PR 94447",2024-03-26,3,1792.51,Anguilla,Credit Card,Cancelled
+Blue Yeti,Steven Arnold,bgarcia@example.org,830-758-2921x0062,"0134 Medina Locks Apt. 995
+Johnsonfurt, WI 31594",Brookefort,"8645 Shelby Burgs Suite 416
+Ellisland, OH 72629",2024-01-04,1,1731.81,Oman,PayPal,Cancelled
+Sony TV,Jamie Quinn,aowens@example.net,305-291-9420x2954,"157 Lynn Haven Suite 080
+Jaclynview, WA 67664",Lake Kennethmouth,"7945 Lloyd Plaza
+Dianaburgh, OH 13780",2024-03-18,4,674.04,Taiwan,PayPal,Processing
+UE Megaboom,Timothy Romero,gclark@example.com,911-501-4569,"007 Phillips Estates
+North Nancy, AL 90224",Carriefurt,"1342 Richard Overpass
+Christineland, WI 43090",2024-04-02,5,314.46,Turkmenistan,PayPal,Cancelled
+iRobot Roomba,Nicholas Melton,jennifer12@example.net,+1-726-242-0438,"47350 Haynes Expressway
+Lake Melissafurt, NM 59161",Mcphersontown,"024 Matthew Junctions
+Danielhaven, MI 48751",2024-02-04,1,1066.91,Canada,Cash on Delivery,Cancelled

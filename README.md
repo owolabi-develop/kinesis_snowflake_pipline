@@ -8,3 +8,15 @@ The aim of this project solution is using lambda function as data simulation to 
 
 # Architechure Diagram
 ![alt text](diagramphoto/architecture.png)
+
+
+## sample Kiness stream Data
+![alt text](diagramphoto/sample_kinesis_data.jpg)
+
+
+
+## sample snowflake data
+![alt text](diagramphoto/snowflake.jpg)
+
+## sample Powerbi visualization connected to snowflake
+![alt text](diagramphoto/sample_powerbi.jpg)
