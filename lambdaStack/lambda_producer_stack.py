@@ -12,7 +12,7 @@ ENVIRONMENT = {
 }
 
 
-class SalesDataStack(Stack):
+class LambdaSalesDataStack(Stack):
      def __init__(self, scope: Construct, construct_id: str, **Kwargs):
         super().__init__(scope, construct_id, **Kwargs)
         
@@ -37,11 +37,11 @@ class SalesDataStack(Stack):
         
         
         lambda_sales_data_producer = _lambda.Function(self,
-                                             "propertiesdataproducer",
+                                             "customerdataproducer",
                                              runtime=_lambda.Runtime.PYTHON_3_12,
                                              code=_lambda.Code.from_asset("lambda"),
                                              handler="sales_data_producer.handler",
-                                             timeout=Duration.minutes(3),
+                                             timeout=Duration.minutes(5),
                                              layers=[sales_data_layer],
                                              role=lambda_role,
                                              environment=ENVIRONMENT

@@ -19,7 +19,7 @@ class S3bucketStack(Stack):
           ## landing_zone_bucket
         
         landing_zone_bucket = _s3.Bucket(self, "landing_zone_bucket",
-                    bucket_name="landing-zone-bucket",
+                    bucket_name="landing-zone-customers-bucket",
                     removal_policy=RemovalPolicy.DESTROY
                 )
         
@@ -35,17 +35,17 @@ class S3bucketStack(Stack):
         
         ### deploy the arflow dags script 
         
-        _s3deploy.BucketDeployment(self,"deployment",
-                                  sources=[_s3deploy.Source.asset('dags/')],
-                                  destination_bucket=airflow_dags_bucket.bucket_arn,
-                                  destination_key_prefix='dags'
+        _s3deploy.BucketDeployment(self,"airflowDags",
+                                  sources=[_s3deploy.Source.asset('airflow_dags/')],
+                                  destination_bucket=airflow_dags_bucket,
+                                  destination_key_prefix='dags/'
                                   )
         
         
          ### deploy the arflow  snowflake requirements files
-        _s3deploy.BucketDeployment(self,"deployment-2",
+        _s3deploy.BucketDeployment(self,"Requirements",
                                   sources=[_s3deploy.Source.asset('airflow_requirements/')],
-                                  destination_bucket=airflow_dags_bucket.bucket_arn
+                                  destination_bucket=airflow_dags_bucket
                                   )
         
         
